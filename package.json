@@ -1,0 +1,25 @@
+{
+  "name": "js-bunch",
+  "version": "0.0.4",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Js",
+    "Functions",
+    "library",
+    "math"
+  ],
+  "author": "Muhammad Arqam",
+  "contributors": [
+    "Muhammad Arqam <arqam.applynow@gmail.com>",
+    "Afzaal Qader <afzaalqader715@gmail.com>"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
+}

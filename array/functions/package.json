@@ -1,0 +1,24 @@
+{
+  "name": "js-bunch",
+  "version": "0.0.1",
+  "description": "Node JS modules",
+  "keywords": [
+    "array",
+    "node",
+    "functions"
+  ],
+  "homepage": "https://github.com/arqam-dev/js-bunch.git",
+  "repository": "lodash/lodash",
+  "license": "MIT",
+  "main": "index.js",
+  "author": "Muhammad Arqam <arqam.applynow@gmail.com>",
+  "contributors": [
+    "Muhammad Arqam <arqam.applynow@gmail.com>",
+    "Afzaal Qader <afzaalqader715@gmail.com>"
+  ],
+  "scripts": {
+    "test": "echo \"See js-bunch repo details.\"",
+    "start": "node index.js"
+  },
+  "_from": "js-bunch@0.0.1"
+}
